@@ -4,5 +4,10 @@ Currently, my work is centered on cutting-edge AI and machine learning projects,
 My quotes
 
     “Test without an assertion is not a test”
+
     “Tool does matter unless you know how to create it”
+
+    “I’m faster, my bots are faster than me”
+
     “Talk is meaningless without data”
+
